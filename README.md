@@ -22,3 +22,9 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# About:
+Code for ["You Don't Need WordPress"](https://www.youdontneedwp.com/)
+
+## License
+[Unlicense : Set Your Code Free](http://unlicense.org/)
